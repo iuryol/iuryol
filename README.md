@@ -1,7 +1,6 @@
-## Hi , my name is Iury 👋
-==========================
+### Hi , my name is Iury 👋
 
-###Full Stack Developer
+##Full Stack Developer
 -----------------------------
 
 I'm 24 years old nerd graduated in Computer Science  . I love learn stuff about everything and figure out how solve problems.
@@ -14,7 +13,7 @@ Development and hacking is my favorite tecnology areas because is a challenge to
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love read, play video games, movies and pratice sports  
 
-### Skills
+## Skills
 
 <p align="left">
   
@@ -38,7 +37,7 @@ Development and hacking is my favorite tecnology areas because is a challenge to
   
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"  />
   
-### Socials
+## Socials
   <p align="left">
   
   <a href="https://www.linkedin.com/in/iury-cavalcante-632a97187/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
@@ -47,7 +46,7 @@ Development and hacking is my favorite tecnology areas because is a challenge to
   
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  />
   </p>
-### Badges
+## Badges
   
   <a href="https://github.com/iuryol" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peguimasid&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   
