@@ -45,7 +45,7 @@ Development and hacking is my favorite tecnology areas because is a challenge to
   <a href="discord.com/snkchannel@outlook.com"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  /></a>
   
   <a hred="https://github.com/iuryol"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  /></a>
-  </p>
+  
 ### Badges
   
   <a href="https://github.com/iuryol" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peguimasid&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
