@@ -7,7 +7,7 @@
 I'm 24 years old nerd graduated in Computer Science  . I love learn stuff about everything and figure out how solve problems.
 Development and hacking is my favorite tecnology areas because is a challenge to me find out how to built and how to broke .
 
-* 🌍  I'm based in Rio de Janeiro, Brazil
+* 🌍  I'm based in Teresina, Brazil
 * ✉️  You can contact me at [iuryosc@gmail.com](mailto:iuryosc@gmail.com)
 * 🚀  I'm currently a it assistent on [Hapvida].
 * 🧠  I'm learning Laravel and C programming language
