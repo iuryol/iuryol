@@ -8,7 +8,7 @@ Development and hacking is my favorite tecnology areas because is a challenge to
 
 * 🌍  I'm based in Teresina, Píaui, Brazil
 * ✉️  You can contact me at [iuryosc@gmail.com](mailto:iuryosc@gmail.com)
-* 🚀  I'm currently a it assistent on [Hapvida](hapvida.com.br)
+* 🚀  I'm currently a it Web Developer on [Portal o Dia](https://portalodia.com/)
 * 🧠  I'm learning Laravel and C programming language
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love read, play video games, movies and pratice sports  
