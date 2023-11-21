@@ -24,11 +24,9 @@ Development and hacking is my favorite tecnology areas because is a challenge to
 ### Socials
 -----------------------------
   <p align="left">
-  
   <a href="https://www.linkedin.com/in/iury-cavalcante-632a97187/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
-  
   <a href="discord.gg/#7199"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  /></a>
-  
-  <a href="https://github.com/iuryol"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  /></a></p>
+  <a href="https://github.com/iuryol"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  /></a>
+  </p>
   
 
